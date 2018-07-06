@@ -11,6 +11,9 @@ Sample of application can be download [here](https://github.com/SeynalKim/JavaFX
 ## This project uses the following
 
 [JFoenix](https://github.com/jfoenixadmin/JFoenix)
+
 [Graddle 4.8.1](https://gradle.org/install/)
+
 [JDK 10](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html)
+
 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
