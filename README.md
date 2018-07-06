@@ -10,7 +10,7 @@ Sample of application can be download [here](https://github.com/SeynalKim/JavaFX
 
 ## This project uses the following
 
-[JFoenix](https://github.com/jfoenixadmin/JFoenix)
+[JFoenix 9](https://github.com/jfoenixadmin/JFoenix)
 
 [Graddle 4.8.1](https://gradle.org/install/)
 
