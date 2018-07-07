@@ -1,0 +1,11 @@
+.notInRangeDays{
+    -fx-text-fill: #CCCCCC;
+}
+.selectedDate{
+    -fx-background-color: #a181f9;
+}
+.dateNow{
+    -fx-background-color:  #4285f5
+}
+
+
